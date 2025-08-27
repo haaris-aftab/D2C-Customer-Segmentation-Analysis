@@ -2,23 +2,23 @@
 
 # D2C Customer Segmentation Analysis
 
-## 🎯 Project Objective
+##  Project Objective
 
 This project analyzes a transactional dataset from a UK-based online retailer to segment customers into distinct groups based on their purchasing behavior. The primary goal is to identify key customer segments to enable targeted and personalized marketing strategies, ultimately driving retention and sales.
 
-## 📊 Dataset
+##  Dataset
 
 The analysis uses the "Online Retail II UCI" dataset, which contains transactional data from 2009 to 2011.
 
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - **Python:** For data manipulation and analysis.
 - **Pandas:** For data cleaning and processing.
 - **Matplotlib & Seaborn:** For data visualization.
 
-## 📈 Analysis & Findings
+##  Analysis & Findings
 
 The project uses the **RFM (Recency, Frequency, Monetary)** model to score customers:
 1.  **Recency:** How recently a customer made a purchase.
@@ -35,7 +35,7 @@ Based on these scores, customers were grouped into segments like **Champions, Lo
 - **At-Risk / Hibernating:** Launch targeted win-back campaigns with personalized discounts to re-engage them.
 - **Potential Loyalists:** Encourage repeat purchases through personalized product recommendations and follow-up marketing.
 
-## 🚀 How to Run
+##  How to Run
 
 1.  Ensure you have Python and the required libraries (`pandas`, `matplotlib`, `seaborn`) installed.
 2.  Place the `online_retail_II.csv` dataset in the same directory.
