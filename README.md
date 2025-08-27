@@ -27,8 +27,6 @@ The project uses the **RFM (Recency, Frequency, Monetary)** model to score custo
 
 Based on these scores, customers were grouped into segments like **Champions, Loyal Customers, Potential Loyalists, and At-Risk**.
 
-### Customer Segment Distribution
-![Customer Segmentation Plot](segment_distribution.png)
 
 ### Key Strategic Recommendations
 - **Champions:** Nurture these high-value customers with loyalty programs and exclusive offers to maintain their engagement.
